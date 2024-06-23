@@ -1,2 +1,3 @@
 nginx
 nginx:alpine
+openjdk:8-jre-alpine
