@@ -138,6 +138,13 @@ jobs:
             
             # 将@sha256:等字符删除
             image_name_tag="${image_name_tag%%@*}"
+
+            echo "ALIYUN_REGISTRY:------->$ALIYUN_REGISTRY"
+            echo "ALIYUN_NAME_SPACE:------->$ALIYUN_NAME_SPACE"
+            echo "platform_prefix:-------> $platform_prefix"
+            echo "name_space_prefix:------->$name_space_prefix"
+            echo "image_name_tag:-------> $image_name_tag"
+
             new_image="$ALIYUN_REGISTRY/$ALIYUN_NAME_SPACE/$platform_prefix$name_space_prefix$image_name_tag"
             echo "docker tag-image:-------> $image"
             echo "docker tag-new_image:------->$new_image"
