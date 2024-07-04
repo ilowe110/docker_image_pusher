@@ -7,3 +7,4 @@ apache/rocketmq
 apache/rocketmq-ci
 apache/rocketmq-operator
 apache/rocketmq-exporter
+apache/rocketmq:5.2.0
