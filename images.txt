@@ -8,3 +8,4 @@ apache/rocketmq
 #apache/rocketmq-operator
 #apache/rocketmq-exporter
 apache/rocketmq:5.2.0
+apacherocketmq/rocketmq-dashboard:1.0.0
