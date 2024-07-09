@@ -1,6 +1,7 @@
 nginx
 nginx:alpine
 openjdk:8-jre-alpine
+openjdk:8-jre-alpine3.9
 rabbitmq
 rabbitmq:3.13.3
 apache/rocketmq
