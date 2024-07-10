@@ -10,3 +10,6 @@ apache/rocketmq
 #apache/rocketmq-exporter
 apache/rocketmq:5.2.0
 apacherocketmq/rocketmq-dashboard:1.0.0
+docker/dockerfile:labs
+docker/dockerfile:1-labs
+docker/dockerfile:1
