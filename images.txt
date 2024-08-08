@@ -16,3 +16,4 @@ docker/dockerfile:1
 --platform=linux/arm64/v8 openjdk:8-jre-alpine3.9
 nginx:stable-perl@sha256:95b01e2e9ab0702ce2f1a8f05f90e6408fd1f4b5e5006c6088ba5a864ed42064
 calico/cni:v3.26.1
+calico/node:v3.26.1
