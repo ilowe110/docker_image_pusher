@@ -19,3 +19,4 @@ calico/cni:v3.26.1
 calico/node:v3.26.1
 redis:6.0.9-alpine
 kubesphere/kube-state-metrics:v2.5.0
+dbeaver/cloudbeaver:24.2.1
