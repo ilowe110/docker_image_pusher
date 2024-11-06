@@ -22,3 +22,4 @@ kubesphere/kube-state-metrics:v2.5.0
 dbeaver/cloudbeaver:24.2.1
 mysql:8.0.35
 mysql:8.0.40
+calico/kube-controllers:v3.26.1
