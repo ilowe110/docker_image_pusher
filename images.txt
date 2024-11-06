@@ -20,3 +20,5 @@ calico/node:v3.26.1
 redis:6.0.9-alpine
 kubesphere/kube-state-metrics:v2.5.0
 dbeaver/cloudbeaver:24.2.1
+mysql:8.0.35
+mysql:8.0.40
