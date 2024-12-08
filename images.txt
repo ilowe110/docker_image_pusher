@@ -30,3 +30,5 @@ rabbitmq:4.0.4-management
 rabbitmq:latest
 rabbitmq:4.0.4
 rabbitmq:4.1-rc-management-alpine
+oceanbase/oceanbase-ce:latest
+oceanbase/oceanbase-ce:4.2.1-lts
