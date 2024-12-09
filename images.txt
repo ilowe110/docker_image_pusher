@@ -33,3 +33,6 @@ rabbitmq:4.1-rc-management-alpine
 oceanbase/oceanbase-ce:latest
 oceanbase/oceanbase-ce:4.2.1-lts
 oceanbase/oceanbase-ce:4.3.4.0-100000162024110717
+bitnami/postgresql:12.20.0
+bitnami/postgresql:12.1.0
+
