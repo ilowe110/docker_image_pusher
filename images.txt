@@ -35,4 +35,5 @@ oceanbase/oceanbase-ce:4.2.1-lts
 oceanbase/oceanbase-ce:4.3.4.0-100000162024110717
 bitnami/postgresql:12.20.0
 bitnami/postgresql:12.1.0
+kubesphere/kubectl:v1.27.4
 
