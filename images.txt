@@ -40,4 +40,4 @@ kubesphere/kubectl:v1.27.4
 nginx:stable-perl
 nginx:1.27.3-perl
 --platform linux/arm64/v8 nginx:1.27.3-perl
-
+minio/minio:RELEASE.2025-04-22T22-12-26Z
