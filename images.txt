@@ -1,1 +1,1 @@
-canal/canal-server:latest-amd64
+eclipse-temurin:8-jre
